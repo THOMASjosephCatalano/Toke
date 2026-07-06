@@ -5,7 +5,7 @@ Toke Core integration/staging tree
 What is Toke?
 ----------------
 
-Toke is an experimental digital currency builder that enables instant payments to
+Toke is an experimental digital currency builder that enables instant "tokens" to
 anyone, anywhere in the world. Toke uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Bitcoin Core is the name of open source
