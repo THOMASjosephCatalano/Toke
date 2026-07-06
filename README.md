@@ -1,7 +1,7 @@
 Toke Core integration/staging tree
 =====================================
 
-note: this is a work in progress
+note: this is a work in progress and altusnet was a business I started in NJ 
 
 What is Toke?
 ----------------
